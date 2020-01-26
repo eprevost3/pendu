@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pendu/static/css/main.fd4938b6.chunk.css",
+    "main.js": "/pendu/static/js/main.a0f74ac3.chunk.js",
+    "main.js.map": "/pendu/static/js/main.a0f74ac3.chunk.js.map",
+    "runtime-main.js": "/pendu/static/js/runtime-main.9c93ed61.js",
+    "runtime-main.js.map": "/pendu/static/js/runtime-main.9c93ed61.js.map",
+    "static/js/2.3b56a865.chunk.js": "/pendu/static/js/2.3b56a865.chunk.js",
+    "static/js/2.3b56a865.chunk.js.map": "/pendu/static/js/2.3b56a865.chunk.js.map",
+    "index.html": "/pendu/index.html",
+    "precache-manifest.5573d2720c64cc1cbf3144c1158a786e.js": "/pendu/precache-manifest.5573d2720c64cc1cbf3144c1158a786e.js",
+    "service-worker.js": "/pendu/service-worker.js",
+    "static/css/main.fd4938b6.chunk.css.map": "/pendu/static/css/main.fd4938b6.chunk.css.map",
+    "static/js/2.3b56a865.chunk.js.LICENSE": "/pendu/static/js/2.3b56a865.chunk.js.LICENSE",
+    "static/media/US_flag.jpg": "/pendu/static/media/US_flag.f22d0b17.jpg",
+    "static/media/reset.png": "/pendu/static/media/reset.21e13f42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c93ed61.js",
+    "static/js/2.3b56a865.chunk.js",
+    "static/css/main.fd4938b6.chunk.css",
+    "static/js/main.a0f74ac3.chunk.js"
+  ]
+}
