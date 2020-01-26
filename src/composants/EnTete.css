@@ -1,0 +1,18 @@
+#en_tete{
+  display: flex;
+  justify-content: space-between;
+  width: 750px;
+  flex-direction: row;
+}
+
+#langage{
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+}
+
+#reset{
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+}

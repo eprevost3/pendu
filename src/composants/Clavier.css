@@ -1,0 +1,5 @@
+.clavier{
+  display: flex;
+  flex-wrap: wrap; /*force les lettres à aller à la ligne */
+  width: 750px;
+}
